@@ -1,0 +1,11 @@
+{
+		"name": "ryzhik/BSA",
+		"description": "files for the first work",
+		"type": "project",
+		"require": {
+			"php":">7.0"
+		},
+		"autoload": {
+			"classmap": ["main/"]
+			}
+	}
